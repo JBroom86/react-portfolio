@@ -1,7 +1,15 @@
+import { Route, Routes } from "react-router-dom"
+import Header from "../Header"
+
 export default function App() {
   return (
-    <h1 className="bg-blue-500 text-white p-4">
-      Hello world!
-    </h1>
+    <>
+      <Header />
+
+      <Routes>
+        
+
+      </Routes>
+    </>
   )
 }
