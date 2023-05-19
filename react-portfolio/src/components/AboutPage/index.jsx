@@ -1,10 +1,11 @@
 function AboutPage() {
   return (
     <>
+    <h1>About Me</h1>
       <div>
-        <div className="flex justify-center items-center h-screen">
+        <div className="flex justify-center items-top h-screen">
           <div className="relative w-4/5 p-8">
-            <h1>About Me</h1>
+            
             <p class="bio">
               Jeremiah is a skilled bassoonist with over 22 years of experience
               in the field. He was born and raised in Tacoma, Washington, where
