@@ -20,7 +20,7 @@ function ProjectsPage() {
             transition 
             duration-1000
             group-hover:duration-500
-            
+            animate-tilt
             "
             ></div>
             <Link to="https://absoluteskin.herokuapp.com/" target="_blank">
