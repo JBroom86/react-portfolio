@@ -16,4 +16,4 @@
 <hr/>
 
 <h2> Next Steps </h2>
-<p> I will continue to add to this portfolio site as I create new projects and come up with new exciting idea.</p>
+<p> I will continue to add to this portfolio site as I create new projects and come up with new exciting ideas.</p>
