@@ -26,7 +26,7 @@ function ResumePage() {
             <div className="relative w-4/5 m-auto p-8 bg-black bg-opacity-50 rounded-3xl">
             
             <h2 className="text-2xl underline"><strong>Technologies</strong></h2>
-            <p><strong>Languages:</strong> Python, JavaScript, CSS, and HTML</p>
+            <p><strong>Languages:</strong> Python, JavaScript, CSS, WordPress, and HTML</p>
             <p><strong>Software:</strong> MongoDB, Figma, Git, and Microsoft Office</p>
             <p><strong>Frameworks:</strong> Django, React, Express, TailwindCSS, Materialize, and Microsoft Office</p>
             <br />
