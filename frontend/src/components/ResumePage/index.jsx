@@ -33,6 +33,15 @@ function ResumePage() {
             <hr></hr>
             <br />
             <h2 className="text-2xl underline"><strong>Relevant Experience</strong></h2>
+            <h2 className="text-xl"><strong>Software Engineer & Web Developer Intern at <em>Queer, Inc.</em></strong> <a href="https://absoluteskin.herokuapp.com/" className="hover:text-pink-600 transition duration-500"></a> - 2023 - <em> present </em></h2>
+            <p>2023 internship focusing on developing media websites that are user freindly and intuitive.</p>
+            
+            <ul>
+                <li>•	Build custom template using WordPress and custome CSS.</li>
+                <li>•	Design and implement user interfaces for ease of use and accessibility.</li>
+                <li>•	Work in an Agile environment to reach goals and deliver products in a timely manner. </li>
+            </ul>
+            <br />
             <h2 className="text-xl"><strong>Absolute Skincare by <em>Aireonna</em></strong> - <a href="https://absoluteskin.herokuapp.com/" className="hover:text-pink-600 transition duration-500"><em>https://absoluteskin.herokuapp.com/</em></a> - 2023</h2>
             <p>A full-stack services app built using MongoDB, Express, React, and Node.</p>
             
