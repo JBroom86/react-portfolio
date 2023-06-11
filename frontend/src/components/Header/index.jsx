@@ -88,7 +88,7 @@ function Header() {
               <div className="p-2 relative bg-black rounded-lg sm:p-4 font-bold bg-opacity-50">
                 About Me
                 <img
-                  src="https://p.kindpng.com/picc/s/421-4212648_member-person-icon-clipart-hd-png-download.png"
+                  src="https://w7.pngwing.com/pngs/178/595/png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png"
                   className="h-8 sm:h-10 invert mx-auto"
                 />
               </div>

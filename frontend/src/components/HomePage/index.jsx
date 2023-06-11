@@ -101,6 +101,11 @@ function HomePage() {
             alt="Sass Icon"
           />
           <img
+            src="https://cdn-icons-png.flaticon.com/512/174/174881.png"
+            className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
+            alt="WordPress Icon"
+          />
+          <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
             alt="Git Icon"
