@@ -13,8 +13,7 @@ const path = require('path')
 
 /* Require the routes in the controllers folder
 --------------------------------------------------------------- */
-// const petsCtrl = require('./controllers/pets')
-// const appsCtrl = require('./controllers/applications');
+
 
 
 /* Create the Express app
