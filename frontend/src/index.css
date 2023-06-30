@@ -8,6 +8,8 @@ body {
   background: #190933;
   color: white;
   font-family: 'Overpass', sans-serif;
+  background-image: radial-gradient(circle, black, #190933);
+  height: 100%;
 }
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
