@@ -32,14 +32,14 @@ function ResumePage() {
             <br />
             <hr></hr>
             <br />
-            <h2 className="text-2xl underline"><strong>Relevant Experience</strong></h2>
-            <h2 className="text-xl"><strong>Software Engineer & Web Developer Intern at <em>Queer, Inc.</em></strong> <a href="https://absoluteskin.herokuapp.com/" className="hover:text-pink-600 transition duration-500"></a> - 2023 - <em> present </em></h2>
+            <h2 className="text-2xl underline"><strong>Relevant Experience</strong> </h2>
+            <h2 className="text-xl"><strong>Software Engineer & Web Developer Intern at <em>Queer, Inc.</em></strong> - <a href="https://outnw.com/" className="hover:text-pink-600 transition duration-500"><em>https://outnw.com/</em></a> - 2023</h2>
             <p>2023 internship focusing on developing media websites that are user freindly and intuitive.</p>
             
             <ul>
-                <li>•	Build custom template using WordPress and custome CSS.</li>
-                <li>•	Design and implement user interfaces for ease of use and accessibility.</li>
-                <li>•	Work in an Agile environment to reach goals and deliver products in a timely manner. </li>
+                <li>•	Significantly improved website performance and user engagement by developing custom WordPress templates and implementing custom CSS, resulting in an increase in user interaction and reduction in bounce rate.</li>
+                <li>•	Enhanced user experience and accessibility by meticulously designing and implementing user interfaces, leading to an increase in user retention and a boost in overall accessibility compliance.</li>
+                <li>•	Spearheaded Agile methodologies within the team, resulting in increased in project completion efficiency, faster time-to-market, and an improvement in product delivery timeliness. </li>
             </ul>
             <br />
             <h2 className="text-xl"><strong>Absolute Skincare by <em>Aireonna</em></strong> - <a href="https://absoluteskin.herokuapp.com/" className="hover:text-pink-600 transition duration-500"><em>https://absoluteskin.herokuapp.com/</em></a> - 2023</h2>
