@@ -23,8 +23,8 @@ function HomePage() {
             animate-tilt
             "></div>
           <img
-            src="https://i.imgur.com/0Qk4nhs.jpg"
-            alt="Jeremiah"
+            src="https://i.imgur.com/V3FTFna.jpg"
+            alt="Jeremiah Broom - Software Developer"
             className="relative h-72 w-72 rounded-full"
           />
         </div>

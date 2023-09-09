@@ -17,13 +17,7 @@ function Footer() {
           alt="Jeremiah's LinkedIn"
         />
       </Link>
-      <Link to="mailto:jbroom86@gmail.com">
-        <img
-          src="https://media.istockphoto.com/id/1248990173/vector/glowing-neon-line-paper-plane-icon-isolated-on-black-background-paper-airplane-icon-aircraft.jpg?s=170667a&w=0&k=20&c=P8aZfrPOc3qqIUWSrf8Z4cd2fzmWVhPzg0NCIz3zyXQ="
-          className="h-12 rounded-full"
-          alt="Email Jeremiah"
-        />
-      </Link>
+      
     </footer>
   );
 }
