@@ -42,7 +42,7 @@ function ResumePage() {
                 <li>•	Spearheaded Agile methodologies within the team, resulting in increased in project completion efficiency, faster time-to-market, and an improvement in product delivery timeliness. </li>
             </ul>
             <br />
-            <h2 className="text-xl"><strong>Absolute Skincare by <em>Aireonna</em></strong> - <a href="https://absoluteskin.herokuapp.com/" className="hover:text-pink-600 transition duration-500"><em>https://absoluteskin.herokuapp.com/</em></a> - 2023</h2>
+            <h2 className="text-xl"><strong>Absolute Skincare by <em>Aireonna</em></strong> - <a href="https://absoluteskin.herokuapp.com/" ><em className="hover:text-pink-600 transition duration-500">https://absoluteskin.herokuapp.com/</em></a> - 2023</h2>
             <p>A full-stack services app built using MongoDB, Express, React, and Node.</p>
             
             <ul>
@@ -51,7 +51,7 @@ function ResumePage() {
                 <li>•	Created multiple points of interaction to review services, products, and about me sections. </li>
             </ul>
             <br />
-            <h2 className="text-xl"><strong>Plan<em>It</em></strong> - <a href="https://sei-planit.herokuapp.com/" className="hover:text-pink-600 transition duration-500"><em>https://sei-planit.herokuapp.com/</em></a> - 2023</h2>
+            <h2 className="text-xl"><strong>Plan<em>It</em></strong> - <em className="hover:text-pink-600 transition duration-500">https://sei-planit.herokuapp.com/</em> - 2023</h2>
             <p>A full-stack polling app built using Django, Python, and Bootstrap.</p>
             
             <ul>
