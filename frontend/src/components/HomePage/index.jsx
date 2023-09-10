@@ -24,7 +24,7 @@ function HomePage() {
             "></div>
           <img
             src="https://i.imgur.com/V3FTFna.jpg"
-            alt="Jeremiah Broom - Software Developer"
+            alt="Jeremiah Broom - Software Developer - Bassoonist - Dog Dad"
             className="relative h-72 w-72 rounded-full"
           />
         </div>
@@ -38,77 +38,77 @@ function HomePage() {
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="React Icon"
+            alt="React Logo picture"
           />
           <img
             src="https://www.svgrepo.com/show/353657/django-icon.svg"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="Django Icon"
+            alt="Django Logo Picture"
           />
           <img
             src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4 rounded-full"
-            alt="Flask Icon"
+            alt="Flask Logo Picture"
           />
           <img
             src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="Python Icon"
+            alt="Python Logo Picture"
           />
           <img
             src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="JavaScript Icon"
+            alt="JavaScript Logo Picture"
           />
           <img
             src="https://cdn.cdnlogo.com/logos/c/18/css.svg"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="CSS Icon"
+            alt="CSS Logo Picture"
           />
           <img
             src="https://cdn-icons-png.flaticon.com/512/732/732212.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="HTML Icon"
+            alt="HTML Logo Picture"
           />
           <img
             src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="Node.js Icon"
+            alt="Node.js Logo Picture"
           />
           <img
             src="https://www.svgrepo.com/show/331488/mongodb.svg"
             className="h-10 w-18 sm:h-12 sm:w-12 mr-4 mb-4 rounded "
-            alt="MongoDB Icon"
+            alt="MongoDB Logo Picture"
           />
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"
             className="h-10 w-18 sm:h-12 sm:w-12 mr-4 mb-4 rounded "
-            alt="PostgreSQL Icon"
+            alt="PostgreSQL Logo Picture"
           />
           <img
             src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"
             className="h-10 w-12 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="TailwindCSS Icon"
+            alt="TailwindCSS Logo Picture"
           />
           <img
             src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="Bootstrap Icon"
+            alt="Bootstrap Logo Picture"
           />
           <img
             src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="Sass Icon"
+            alt="Sass Logo Picture"
           />
           <img
             src="https://cdn-icons-png.flaticon.com/512/174/174881.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="WordPress Icon"
+            alt="WordPress Logo Picture"
           />
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
             className="h-10 w-10 sm:h-12 sm:w-12 mr-4 mb-4"
-            alt="Git Icon"
+            alt="Git Logo Picture"
           />
         </div>
       </div>
